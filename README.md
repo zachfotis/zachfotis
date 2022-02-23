@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning ReactJS and improving my backend skills.
 
 - 📫 How to reach me: 
-	- 📧 zaxfotis@gmail.com
 	- 🔗 https://www.linkedin.com/in/fotiszachopoulos/
 	- 🌐 https://www.fzachopoulos.com
 	- 🛸 https://twitter.com/zachfotis
