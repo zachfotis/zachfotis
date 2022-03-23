@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fotis</h1>
 <h3 align="center">A passionate fullstack developer from Kavala, Greece</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zachfotis&label=Profile%20views&color=0e75b6&style=flat" alt="zachfotis" /> </p>
-
-<p align="left"> <a href="https://twitter.com/zachfotis" target="blank"><img src="https://img.shields.io/twitter/follow/zachfotis?logo=twitter&style=for-the-badge" alt="zachfotis" /></a> </p>
 
 - 🔭 I’m currently working on **Crypto Trader Pro**
 
@@ -19,10 +16,8 @@
 <a href="https://twitter.com/zachfotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zachfotis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fotiszachopoulos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fotiszachopoulos" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
 <br>
+<p align="left">
 <h2>Design Services</h2>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -91,7 +86,16 @@
   </a> 
   
 </p>
+<br>
+<h2>My Github Stats:</h2>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachfotis&show_icons=true&locale=en&layout=compact" alt="zachfotis" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachfotis&show_icons=true&locale=en&layout=compact" alt="zachfotis" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachfotis&show_icons=true&locale=en" alt="zachfotis" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachfotis&" alt="zachfotis" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachfotis&show_icons=true&locale=en" alt="zachfotis" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachfotis&" alt="zachfotis" />
+</p>
