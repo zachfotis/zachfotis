@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [www.fzachopoulos.com](www.fzachopoulos.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.fzachopoulos.com">www.fzachopoulos.com</a>
 
 - 📫 How to reach me **zaxfotis@gmail.com**
 
