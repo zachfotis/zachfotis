@@ -86,16 +86,3 @@
   </a> 
   
 </p>
-<br>
-<h2>My Github Stats:</h2>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachfotis&show_icons=true&locale=en&layout=compact" alt="zachfotis" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachfotis&show_icons=true&locale=en" alt="zachfotis" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachfotis&" alt="zachfotis" />
-</p>
