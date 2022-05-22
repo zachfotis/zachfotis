@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fotis</h1>
-<h3 align="center">A passionate fullstack developer from Kavala, Greece</h3>
-<br>
-
-- 🔭 I’m currently working on **Crypto Trader Pro**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at <a href="https://www.fzachopoulos.com">www.fzachopoulos.com</a>
-
-- 📫 How to reach me **zaxfotis@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zachfotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zachfotis" height="30" width="40" /></a>
