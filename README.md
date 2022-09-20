@@ -71,6 +71,6 @@
   <br>
   <h2>My Statistics</h2>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachfotis&theme=tokyonight&show_icons=true)
+  ![Fotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachfotis&theme=tokyonight&show_icons=true)
   
 </p>
