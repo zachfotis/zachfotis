@@ -68,4 +68,6 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachfotis&theme=tokyonight&show_icons=true)
+  
 </p>
